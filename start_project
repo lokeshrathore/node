@@ -1,0 +1,13 @@
+two ways :- npm install -g express-generator@4
+a) 
+  1) express app_name -ejs
+  2) cd app_name
+  3) npm install
+  4) npm start
+  
+b) 
+  1) npm install -g express
+  2) express proj_name
+  3) cd proj_name
+  4) npm install
+  5) 
